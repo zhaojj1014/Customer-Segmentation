@@ -1,9 +1,11 @@
 # Customer Segmentation Analysis
-customer segmentation analysis of an online learning platform
+Customer segmentation analysis of an online learning platform
 
 This is a practice project from Data Science 365
 
 I have a different approach than the solution provided by the course, but I think mine makes sense.
+
+# Recommendations for Marketing Strategies
 
 Based on the clustering results, I recommend the following marketing strategies for the learning platform:
 
