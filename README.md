@@ -27,13 +27,21 @@ Collect demographic data about these consumers, such as their gender/age/current
   2: Rest of the World
   
 - Channel: This is the channel through which the customer has learned about the 365 program
-  1. Google
-  2. Facebook
-  3. YouTube
-  4. LinkedIn
-  5. Twitter
-  6. Instagram
-  7. Friend
-  8. Other
+  
+  1: Google
+  
+  2: Facebook
+  
+  3: YouTube
+  
+  4: LinkedIn
+  
+  5: Twitter
+  
+  6: Instagram
+  
+  7: Friend
+  
+  8: Other
 
 
