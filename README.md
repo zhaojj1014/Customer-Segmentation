@@ -21,8 +21,11 @@ Collect demographic data about these consumers, such as their gender/age/current
 - Region: This is the geographical region where the student comes from.
   
   0: USA, Canada, United Kingdom, Australia
+  
   1: Western Europe
+  
   2: Rest of the World
+  
 - Channel: This is the channel through which the customer has learned about the 365 program
   1. Google
   2. Facebook
