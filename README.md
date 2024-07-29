@@ -3,7 +3,7 @@ Customer segmentation analysis of an online learning platform
 
 This is a practice project from Data Science 365
 
-I have a different approach than the solution provided by the course (which clustered the customers into 8 segments), but I think mine makes sense and the resulst are clean and actionable. :)
+I have a different approach than the solution provided by the course (which clustered the customers into 8 segments), but I think mine makes sense and the resulst are clean and actionable. 
 
 # Customer Segments
 - 0 "low value learners": avg minutes, low CLV, mostly from outside North America/UK/AUS
