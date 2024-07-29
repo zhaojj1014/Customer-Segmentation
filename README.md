@@ -1,7 +1,7 @@
 # Customer Segmentation Analysis
 Customer segmentation analysis of an online learning platform
 
-This is a practice project from Data Science 365
+This is a practice project from Data Science 365. The goal is to identify customer segments and recommend marketing strategies. 
 
 I have a different approach than the solution provided by the course (which clustered the customers into 8 segments), but I think mine makes sense and the resulst are clean and actionable. 
 
