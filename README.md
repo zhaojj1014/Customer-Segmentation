@@ -22,7 +22,8 @@ Based on the clustering results, I recommend the following marketing strategies 
 
 - Focus on consumers in North America/EURO/AUS, who yields the highest spending
 - Target these consumers through social media channels such as Youtube, LinkedIn, Google, since these are how most of our target customers are acquired.
-- Possible marketing strategies include ads and data science influencers. 
+- Possible marketing strategies include ads and data science influencers.
+- Friend referral is another promising channel. We may offer discounts to referrals. 
 
 Next step:
 Collect demographic data about these consumers, such as their gender/age/education/geographic location/current occupation/etc. This info would help us choose ads channels and influencers. 
